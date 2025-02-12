@@ -4,4 +4,4 @@ Flipping Product Images from the gallery
 WooCommerce Flipper
 =================================
 
- A very simple plugin that Show's Front and backside view of any product.
+A very simple plugin that Show's Front and backside view of any product.
